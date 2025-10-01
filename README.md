@@ -1,5 +1,4 @@
-# Daniel Szabo
-## (Szabó Dániel)
+# (Daniel Szabo)
 
 <img src="/IMG_5282_edit_resize2(1).png" width="200">
 
