@@ -10,7 +10,7 @@ Mail: daniel.szabo [at] rub [dot] de
 
 ## Introduction
 
-I am a postdoc at RUB (Bochum, Germany), in the [Quantum Information team](https://qi.rub.de/team) of [Michael Walter](https://qi.rub.de/walter).
+Since October 2025 I am a postdoc at RUB, Bochum, in the [Quantum Information team](https://michaelwalter.info) of [Michael Walter](https://michaelwalter.info/walter). From April 2026 I will be at LMU, Munich, in the same team.
 
 I obtained my PhD degree at [IRIF](https://www.irif.fr/index), Université Paris Cité in September 2025, under the supervision of [Frédéric Magniez](https://www.irif.fr/~magniez/).
 The title of my thesis was Quantum property testing and algebraic topology ([pdf](Daniel_Szabo_thesis_online.pdf)).
