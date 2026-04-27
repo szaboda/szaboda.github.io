@@ -2,7 +2,7 @@
 
 <img src="/IMG_5282_edit_resize2(1).png" width="200">
 
-Office: Theresienstraße 37, 80333 München
+Office: A207, Theresienstraße 37, 80333 München
 
 Mail: szabo.daniel [at] lmu [dot] de
 
@@ -10,7 +10,7 @@ Mail: szabo.daniel [at] lmu [dot] de
 
 ## Introduction
 
-Since April 2026, I am a postdoc at LMU, Munich, in the [Quantum Information team](https://michaelwalter.info) of [Michael Walter](https://michaelwalter.info/walter). Between October 2025 and March 2026 I was a postdoc at RUB, Bochum, in the same team.
+Since April 2026, I am a postdoc at LMU, Munich, in the [Quantum Information Theory team](https://michaelwalter.info) of [Michael Walter](https://michaelwalter.info/walter). Between October 2025 and March 2026 I was a postdoc at RUB, Bochum, in the same team.
 
 I obtained my PhD degree at [IRIF](https://www.irif.fr/index), Université Paris Cité in September 2025, under the supervision of [Frédéric Magniez](https://www.irif.fr/~magniez/).
 The title of my thesis was Quantum property testing and algebraic topology ([pdf](Daniel_Szabo_thesis_online.pdf)).
@@ -19,8 +19,7 @@ Before that, I obtained my bachelor's and master's degrees in computer engineeri
 
 Research topics: quantum query complexity, property testing, topological data analysis.
 
-
-## Research
+## Publications
 
 Simon Apers, Frédéric Magniez, Sayantan Sen, Dániel Szabó. Quantum property testing in sparse directed graphs. RANDOM, 2025. ([DOI](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2025.32), [arXiv](https://arxiv.org/abs/2410.05001))
 
@@ -30,3 +29,5 @@ Simon Apers, Sander Gribling, Sayantan Sen, Dániel Szabó. A (simple) classical
 
 Bálint Daróczy, Katalin Friedl, László Kabódi, Attila Pereszlényi, Dániel Szabó. Quantum Inspired Adaptive Boosting. Proceedings of the 11th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, 2019. ([arXiv](https://arxiv.org/abs/2102.00949))
 
+## Teaching
+2026 summer term: [Advanced Quantum Information](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=1119713&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), exercise sessions
