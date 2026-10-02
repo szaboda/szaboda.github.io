@@ -21,6 +21,8 @@ Research topics: quantum query complexity, property testing, topological data an
 
 ## Publications
 
+Chandrima Kayal, Sayantan Sen, Dániel Szabó. Near-optimal quantum query lower bounds on bipartiteness and expansion testing in the bounded-degree graph model. Preprint, 2026. ([arXiv](https://arxiv.org/abs/2610.01752))
+
 Simon Apers, Frédéric Magniez, Sayantan Sen, Dániel Szabó. Quantum property testing in sparse directed graphs. RANDOM, 2025. ([DOI](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2025.32), [arXiv](https://arxiv.org/abs/2410.05001))
 
 Dániel Szabó, Simon Apers. Holey graphs: very large Betti numbers are testable. SOFSEM, 2025. ([DOI](https://doi.org/10.1007/978-3-031-82697-9_22), [arXiv](https://arxiv.org/abs/2401.06109))
