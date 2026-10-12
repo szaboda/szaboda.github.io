@@ -32,4 +32,6 @@ Simon Apers, Sander Gribling, Sayantan Sen, Dániel Szabó. A (simple) classical
 Bálint Daróczy, Katalin Friedl, László Kabódi, Attila Pereszlényi, Dániel Szabó. Quantum Inspired Adaptive Boosting. Proceedings of the 11th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, 2019. ([arXiv](https://arxiv.org/abs/2102.00949))
 
 ## Teaching
+2026/27 winter term: [Quantum Information](https://academics.nat.tum.de/en/studies/org/mh/details/mod/NAT3035), exercise sessions, group 6
+
 2026 summer term: [Advanced Quantum Information](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=1119713&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), exercise sessions
