@@ -21,6 +21,8 @@ Research topics: quantum query complexity, property testing, topological data an
 
 ## Publications
 
+Chandrima Kayal, Frédéric Magniez, Sayantan Sen, Dániel Szabó. Quantum Query Lower Bounds from Classical Moment Matching. Preprint, 2026. ([arXiv](https://arxiv.org/abs/2611.05117))
+
 Chandrima Kayal, Sayantan Sen, Dániel Szabó. Near-optimal quantum query lower bounds on bipartiteness and expansion testing in the bounded-degree graph model. Preprint, 2026. ([arXiv](https://arxiv.org/abs/2610.01752))
 
 Simon Apers, Frédéric Magniez, Sayantan Sen, Dániel Szabó. Quantum property testing in sparse directed graphs. RANDOM, 2025. ([DOI](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2025.32), [arXiv](https://arxiv.org/abs/2410.05001))
